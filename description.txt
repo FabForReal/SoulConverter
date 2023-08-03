@@ -1,1 +1,2 @@
 This mod lets you convert Souls Of Light to Souls of Night and vice versa.
+Go to either a crimson or corruption demon altar to convert the soul.

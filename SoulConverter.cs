@@ -2,7 +2,8 @@ using Terraria.ModLoader;
 
 namespace SoulConverter
 {
-	public class SoulConverter : Mod
-	{
-	}
+    public class SoulConverter : Mod
+    {
+
+    }
 }
