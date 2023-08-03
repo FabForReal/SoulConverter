@@ -1,0 +1,3 @@
+displayName = Soul Converter
+author = Fab
+version = 1.0.0
